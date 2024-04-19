@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1713505841 source:c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\promotion.cpp
+	"promotion.h"
+	<iostream>
+
+1713505907 c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\promotion.h
+	<iostream>
+
+1713523806 source:c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\main.cpp
+	<iostream>
+	"promotion.h"
+	"tarif.h"
+	"session.h"
+	"tarifservice.h"
+	"tarifboisson.h"
+	"facture.h"
+	"boisson.h"
+	"service.h"
+	<string.h>
+	<vector>
+	<map>
+	<list>
+	<fstream>
+
+1712655582 c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\promotion.cpp
+	"promotion.h"
+	<iostream>
+
+1713442047 source:c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\tarif.cpp
+	"tarif.h"
+	<iostream>
+	<string>
+
+1713498951 c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\tarif.h
+	<iostream>
+
+1712654791 c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\tarif.cpp
+	"tarif.h"
+	<iostream>
+
+1713520941 source:c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\tarifboisson.cpp
+	"tarifboisson.h"
+	"boisson.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1713519055 source:c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\tarifservice.cpp
+	"tarifservice.h"
+	"service.h"
+	<iostream>
+	<string>
+	<map>
+	<algorithm>
+
+1713521214 source:c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\facture.cpp
+	"facture.h"
+	<string>
+	<iostream>
+	<vector>
+	<typeinfo>
+
+1713524333 c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\session.h
+	<iostream>
+
+1713523793 source:c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\session.cpp
+	"session.h"
+	<iostream>
+	<fstream>
+
+1713498578 c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\tarifservice.h
+	<string>
+	<map>
+	"tarif.h"
+	"service.h"
+
+1713501202 c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\tarifboisson.h
+	"tarif.h"
+	"boisson.h"
+	<string>
+	<list>
+
+1713520788 c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\facture.h
+	<vector>
+	"tarif.h"
+	"tarifservice.h"
+	"tarifboisson.h"
+	"promotion.h"
+
+1713481841 source:c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\boisson.cpp
+	<iostream>
+	<string>
+	"boisson.h"
+
+1713470369 source:c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\service.cpp
+	<iostream>
+	<string>
+	"service.h"
+
+1713476856 c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\boisson.h
+	<string>
+
+1713468014 c:\users\ayach\onedrive\bureau\projet application desktop cyber cafe\cybercafe\service.h
+	<string>
+
